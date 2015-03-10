@@ -23,3 +23,5 @@ Upload the plugin to your blog and activate it.
 
 = 1.0 =
 First version :)
+= 1.1 =
+Fixed some bugs. Now plugin works not only with catalogue and change price at whole shop.
